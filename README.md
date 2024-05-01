@@ -7,7 +7,7 @@
 <img src="https://github.com/AhmedYasserMohamed/Complete-Frontend-Backend-Application-Deployment-using-Kubernetes-Components/assets/166765792/0a0afbec-2845-4352-9e25-76c8b278b9df">
 <img src="https://github.com/AhmedYasserMohamed/Complete-Frontend-Backend-Application-Deployment-using-Kubernetes-Components/assets/166765792/12ed5d17-8fda-4905-a48f-f2f2640d614e">
 </div>
-<br>
+
 ```
 minikube start
 
